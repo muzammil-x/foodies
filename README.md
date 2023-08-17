@@ -1,6 +1,6 @@
 # React Project
-This is a React project bootstrapped with [`create-next-app`]
-Welcome to our React project that showcases the integration of Tailwind(a CSS framework) for styling.and create a visually appealing user interface. 
+This is a React project bootstrapped with [`create-next-app`].
+Welcome to our React project that showcases the integration of Tailwind (a CSS framework) for styling and create a visually appealing user interface. 
 By utilizing the powerful features of React and the flexibility of Tailwind CSS, this project delivers a responsive and modern web application.
 
 # Getting Started
