@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Card from "./components/Card";
 import Food from "./components/Food";
 import Category from "./components/Category";
+
 function App() {
   return (
     <div>
