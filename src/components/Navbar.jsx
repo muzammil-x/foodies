@@ -92,8 +92,12 @@ const Navbar = () => {
               <BsFillSaveFill size={25} className="mr-4" /> Best Ones
             </li>
             <li className="text-xl py-4 flex">
+              <BsFillSaveFill size={25} className="mr-4" /> Best Freinds
+            </li>
+            <li className="text-xl py-4 flex">
               <FaUserFriends size={25} className="mr-4" /> Invite Freinds
-            </li><li className="text-xl py-4 flex">
+            </li>
+            <li className="text-xl py-4 flex">
               <FaUserFriends size={25} className="mr-4" /> Invite Me
             </li>
           </ul>
