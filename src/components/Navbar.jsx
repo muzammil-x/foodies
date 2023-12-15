@@ -93,6 +93,8 @@ const Navbar = () => {
             </li>
             <li className="text-xl py-4 flex">
               <FaUserFriends size={25} className="mr-4" /> Invite Freinds
+            </li><li className="text-xl py-4 flex">
+              <FaUserFriends size={25} className="mr-4" /> Invite Me
             </li>
           </ul>
         </nav>
